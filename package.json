@@ -1,6 +1,6 @@
 {
   "name": "node-thrift-amqp",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Thrift-AMQP library",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "ampq"
   ],
   "dependencies": {
-    "thrift": "0.9.3",
+    "thrift": "0.12.0",
     "amqplib": "0.4.2"
   },
   "author": "Flavio Grossi <flaviogrossi@gmail.com>",
